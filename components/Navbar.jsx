@@ -123,7 +123,7 @@ const Navbar = () => {
           {/* Mobile Menu Header */}
           <div className="flex items-center justify-between p-4 border-b border-white/10">
             <span className="text-lg font-mono font-bold text-matrix-200">
-              Menuu
+              Menu
             </span>
             <button
               onClick={toggleMenu}
